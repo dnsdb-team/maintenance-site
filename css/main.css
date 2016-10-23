@@ -4,7 +4,10 @@
    Author's custom styles
    ========================================================================== */
 
-
+.maintenance-footer{
+	background: #333;
+	color: #fff;
+}
 
 
 
